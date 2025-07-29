@@ -13,7 +13,7 @@ set -e
 ###
 
 # Domain Name
-DOMAIN="wss.speednetbrowsing.uk"
+DOMAIN="wss.vibetunnel.win"
 
 # PROTOCOL
 PROTOCOL="udp"
@@ -22,10 +22,10 @@ PROTOCOL="udp"
 UDP_PORT=":36712"
 
 # OBFS
-OBFS="hone"
+OBFS="above"
 
 # PASSWORDS
-PASSWORD="0000"
+PASSWORD="above"
 
 # Basename of this script
 SCRIPT_NAME="$(basename "$0")"
