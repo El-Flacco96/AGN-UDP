@@ -13,7 +13,7 @@ set -e
 ###
 
 # Domain Name
-DOMAIN="wss.vibetunnel.win"
+DOMAIN="vibetunnel.win"
 
 # PROTOCOL
 PROTOCOL="udp"
