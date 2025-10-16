@@ -22,7 +22,7 @@ PROTOCOL="udp"
 UDP_PORT=":36712"
 
 # OBFS
-OBFS="tron"
+OBFS="global1"
 
 # PASSWORDS
 PASSWORD="global1"
