@@ -22,10 +22,10 @@ PROTOCOL="udp"
 UDP_PORT=":36712"
 
 # OBFS
-OBFS="global1"
+OBFS="whisper32"
 
 # PASSWORDS
-PASSWORD="global1"
+PASSWORD="whisper32"
 
 # Basename of this script
 SCRIPT_NAME="$(basename "$0")"
